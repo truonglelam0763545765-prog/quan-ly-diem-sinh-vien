@@ -109,7 +109,7 @@ st.pyplot(fig)
 # Thông tin người tạo ứng dụng ở chân trang
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center; font-size: small; color: gray;'>Ứng dụng được tạo bởi: [LÊ LÂM TRƯỜNG
-    ] - MSSV: [051208013991]</p>",
-    unsafe_allow_html=True,)
+    """<p style='text-align: center; font-size: small; color: gray;'>Ứng dụng được tạo bởi: LÊ LÂM TRƯỜNG - MSSV: [051208013991]</p>""",
+    unsafe_allow_html=True,
+)
 
